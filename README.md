@@ -3,7 +3,7 @@
 Webエンジニア。 沖縄在住。 よろしくお願いいたします。
 
 ## リンク
-- [**portfolio(new)**](https://t-o-d-portfolio.netlify.com/)
+- [**portfolio(new)**](https://r-p.vercel.app)
 - [**Qiita**](https://qiita.com/t_o_d)
 - [**Github**](https://github.com/Kamekure-Maisuke)
 
